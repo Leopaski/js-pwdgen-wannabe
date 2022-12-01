@@ -1,0 +1,6 @@
+scomposizione problema
+chiedo il nome
+chiedo il cognome
+chiedo il colore
+sommo tutto unendo il numero 21
+mostro la password creata
